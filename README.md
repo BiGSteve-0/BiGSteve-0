@@ -1,6 +1,6 @@
 ### Hello! My name is Steven - aka Big-O 🦒
 
-## I'm a programmer, data enthusiast, runner, and musician
+## I'm a Data Engineer, data enthusiast, runner, and musician
 
 - I'm currently working on scripting dynamic column mapping, data profiling, and error event handlers with SSIS.
 - I'm currently advancing my skills in C# and learning Powershell
