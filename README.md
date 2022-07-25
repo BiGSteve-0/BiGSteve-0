@@ -1,4 +1,4 @@
-### Hello! My name is Steven - aka Big-O
+### Hello! My name is Steven - aka Big-O 🦒
 
 ## I'm a programmer, data enthusiast, runner, and musician
 
