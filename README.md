@@ -3,7 +3,7 @@
 ## I'm a Data Engineer, data enthusiast, runner, and musician
 
 - I'm currently working on scripting dynamic column mapping, data profiling, and error event handlers with SSIS.
-- I'm currently advancing my skills in C# and learning Powershell
+- I'm currently advancing my skills in Powershell, SQL, and PowerBI, and also learning Python, R to finish the BI stack. 
 - I'm looking to work on an android application or a large data research project
 - 2022 Goals: Get 2 more certifications and run my first marathon
 - Fun Fact: I sing in a barbershop quartet and [Chorus]
