@@ -18,6 +18,6 @@
 
 [Facebook]: https://www.facebook.com/
 [LinkedIn]: https://www.linkedin.com/in/steven-harris-11196412a/
+[M Language Scripting Around Sharepoint Issues]: https://lnkd.in/gGc5xUTB
 [music]: https://open.spotify.com/playlist/4BQGOn1zHCiAqMKcaYXtx0?si=fce071e2b4734825
 [Chorus]: https://circlecitysound.org/
-[M Language Scripting Around Sharepoint Issues]: https://lnkd.in/gGc5xUTB
