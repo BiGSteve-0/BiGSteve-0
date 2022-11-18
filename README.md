@@ -13,10 +13,18 @@
 [Facebook]
 <br />
 
-## How I fight the Sunday Scaries
+### How I fight the Sunday Scaries
 [M Language Scripting Around Sharepoint Issues] <br />
-[Comment]: < Languages and Tools>
-<br />
+
+### My Editors
+<ol>
+  <li>Azure Data Studio</li>
+  <li>SSMS</li>
+  <li>Power BI Desktop</li>
+  <li>Jupyter</li>
+  <li>Windows Powershell ISE</li>
+</ol>
+
 
 [Facebook]: https://www.facebook.com/
 [LinkedIn]: https://www.linkedin.com/in/steven-harris-11196412a/
