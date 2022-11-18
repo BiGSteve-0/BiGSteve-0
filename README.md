@@ -6,13 +6,15 @@
 - I'm currently advancing my skills in Powershell, SQL, and PowerBI, and also learning Python, R to finish the BI stack. 
 - I'm looking to work on an android application or a large data research project.
 - 2022 Goals: Get 2 more certifications,😊 run my first marathon, and also answer more questions from the community. 
-- Fun Fact: I sing in a barbershop quartet and [Chorus]
+- Fun Fact: I sing in a barbershop quartet and [Chorus] and have a pretty great classical music [playlist].
 
 ## Connect with me 😊
 [LinkedIn]  <br />
 [Facebook]
 <br />
 
+## How I fight the Sunday Scaries
+16[M Language Scripting Around Sharepoint Issues] <br />
 [Comment]: < Languages and Tools>
 <br />
 
