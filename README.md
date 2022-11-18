@@ -14,12 +14,12 @@
 <br />
 
 ## How I fight the Sunday Scaries
-16[M Language Scripting Around Sharepoint Issues] <br />
+[M Language Scripting Around Sharepoint Issues] <br />
 [Comment]: < Languages and Tools>
 <br />
 
 [Facebook]: https://www.facebook.com/
 [LinkedIn]: https://www.linkedin.com/in/steven-harris-11196412a/
 [M Language Scripting Around Sharepoint Issues]: https://lnkd.in/gGc5xUTB
-[music]: https://open.spotify.com/playlist/4BQGOn1zHCiAqMKcaYXtx0?si=fce071e2b4734825
+[playlist]: https://open.spotify.com/playlist/4BQGOn1zHCiAqMKcaYXtx0?si=fce071e2b4734825
 [Chorus]: https://circlecitysound.org/
